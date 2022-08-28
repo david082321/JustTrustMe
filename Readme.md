@@ -34,6 +34,3 @@ To install directly to the phone connected via ADB:
 ```
 ./gradlew installRelease
 ```
-
-
-
